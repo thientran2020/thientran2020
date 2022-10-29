@@ -3,7 +3,7 @@
 <br> B.S. in Applied Mathematics with Computer Science minor
 
 🌱 I’m really interested in applying what I have learnt in school to solve real-life problems.<br> 
-🌱 Data Science, Machine Learning, and Web developments are 3 fields that I have been diving in.
+🌱 Talk with me about: Travelling, Machine Learning, DevOps, Novel, King Chess...
 
 💞️ CONTACT:
    * Email: thienytran14@gmail.com
