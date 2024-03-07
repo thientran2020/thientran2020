@@ -1,13 +1,19 @@
-👋 Hiiii there, I’m Thien Tran. 
-<br> Software Engineer at Block
-<br> B.S. in Applied Mathematics with Computer Science minor
+👋👋👋 Hiiii there, it's Thien 😙 <br />
 
-🌱 I’m really interested in applying what I have learnt in school to solve real-life problems.<br> 
-🌱 Talk with me about: Travelling, Machine Learning, DevOps, Novel, Maths (Combinatorics & Algebra), King Chess...
+🌱🌱🌱
+- Software Engineer at Block since 2022 ^^ <br />
+- BS in Applied Mathematics (minor in CS) at San Jose State University <br />
+- Pursuing MS in Computer Science at University of Texas at Austin (2022 - 2025) <br />
 
-💞️ CONTACT:
-   * Email: thienytran14@gmail.com
-   * San Jose, CA, 95132
+🍒🍒🍒
+- I’m really into problem solving, constant learning and technical grow<br>
+- Talk to me about: Travelling, Kubernetes, Mathematics, Chess, Rubik,...and Literature ;)
+
+🚀🚀🚀
+CONTACT:
+- Email: thienytran14@gmail.com
+- Linkedin: https://www.linkedin.com/in/thien-y-tran/
+- Home: Seattle, WA 98133
 
 <!---
 thientran2020/thientran2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
